@@ -1,4 +1,4 @@
 # Python
 
-Prática de Python
+Prática e estudo de Python 
  
